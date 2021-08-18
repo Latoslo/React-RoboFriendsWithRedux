@@ -1,0 +1,9 @@
+.cardList {
+  display: flex;
+  flex-basis: 80%;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem;
+  font-family: inherit;
+}
